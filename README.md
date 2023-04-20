@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Who am I?
+My name is Felipe Beiger, and I am a software engineering student, and a programmer. 
 
-<!--
-**phllp/phllp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔎 What I'm doing now?
+Recently I started to learn C++, to get in touch with some lower level stuff, and how can I develop things that benefit from that. I'm also on learning Java.
 
-Here are some ideas to get you started:
+## 📚 Things that I know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - PHP
+ - JS/TS
+ - Python
+ - PostgreSql
+ - Java
+ - Docker
+ - Git (makes sense right?)
+ - Linux
