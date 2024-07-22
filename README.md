@@ -1,16 +1,17 @@
-# 👋 Who am I?
-My name is Felipe Beiger, and I am a software engineering student, and a programmer. 
+## About Me
 
-## 🔎 What I'm doing now?
-Recently I started to learn C++, to get in touch with some lower level stuff, and how can I develop things that benefit from that. I'm also on learning Java.
+I'm currently in the middle of my Software Engineering degree at the University of the State of Santa Catarina (UDESC).
 
-## 📚 Things that I know
+I'm working as a Software Engineer on a telemedicine project that involves web development and IoT.
 
- - PHP
- - JS/TS
- - Python
- - PostgreSql
- - Java
- - Docker
- - Git (makes sense right?)
- - Linux
+Previously, I worked as a web developer using PHP, but nowadays, I focus on and prefer the TypeScript and Node.js stack.
+
+I also have proficiency in database modeling (Postgres), Python, Java, and DevOps technologies and concepts.
+
+## Skills and Technologies
+
+- Languages: TypeScript, JavaScript, Python, Java, PHP
+- Web Development: React, Node.js, Express.js, Socket-io, WebRTC
+- Database Management: PostgreSQL
+- DevOps: Docker, Kubernetes, CI/CD, Git
+- IoT: Experience in integrating IoT devices with web applications
